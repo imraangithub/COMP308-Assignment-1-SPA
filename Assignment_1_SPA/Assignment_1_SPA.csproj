@@ -65,9 +65,12 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\app.css" />
     <Content Include="css\bootstrap.css" />
     <Content Include="index.html" />
-    <Content Include="scripts\angular.js" />
+    <Content Include="scripts\controllers.js" />
+    <Content Include="scripts\lib\angular.js" />
+    <Content Include="scripts\Test.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
